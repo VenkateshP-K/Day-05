@@ -1,13 +1,13 @@
 var obj = 
 {
     "name": "VENKATESH",
-    "email": "venkateshpk06@gmail.com",
-    "phone": "+91 9080942372",
-    "work": "INOX Airproducts pvt ltd",
+    "email": "venkatabc@gmail.com",
+    "phone": "+91 1234543216",
+    "work": "ABC pvt ltd",
     "position": "Engineer Trainee",
-    "institution": "BPT college",
-    "area": "Kanchipuram",
-    "Course": "Diploma",
+    "institution": "XYZ University",
+    "area": "Tamil Nadu",
+    "Course": "MERN",
     "Percentage": "77%",
 }
 
